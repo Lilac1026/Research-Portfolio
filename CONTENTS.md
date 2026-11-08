@@ -6,3 +6,4 @@
 - `cross-paper-comparison.md` — Comparison of the three papers, their distinct research settings, and possible synthesis questions.
 
 Each paper directory contains a README, concept notes, methodology, technical deep dive, experiments/results, limitations/insights, interview preparation, learning journal, and references.
+Hope you enjoy reading.
