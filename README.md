@@ -34,3 +34,5 @@ See [`cross-paper-comparison.md`](cross-paper-comparison.md) for a structured sy
 ## Scope and integrity
 
 This is a collection of independent reading notes and technical analyses of published work. It does not claim authorship of the papers or reproduction of their experiments unless explicitly documented and independently completed. Original publications remain the work of their respective authors; links and citations are provided in each paper folder.
+
+Learnings and Experience at IIT Indore.❤️
